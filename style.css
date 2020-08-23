@@ -1,0 +1,59 @@
+.container-fluid{
+    background: url('img2.jpg');
+
+    min-height: 500px;
+    width: 100%;
+    opacity: 0.6;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.container-fluid-2{
+    background: url('newYork-1.jpeg');
+    min-height: 500px;
+    width: 100%;
+    opacity: 0.6;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.container-fluid-3{
+    background: url('148.jpg');
+    min-height: 500px;
+    width: 100%;
+    opacity: 0.6;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+.container-fluid-4{
+    background: url('n1.jpg'); 
+    min-height: 500px;
+    width: 100%;
+    opacity: 0.6;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.containers{
+    padding: 15px;
+    background-color: grey;
+    color: white;
+    position: relative;
+    top: 250px;
+    left: 40%;
+    font-size: 2rem;
+    
+}
+
+.section{
+    text-align: center;
+    padding: 50px 80px;
+}
+.section-light{
+    background-color: #f4f4f4;
+    color: #666;;
+}
+.section-dark{
+    background-color: black;
+    color: whitesmoke;
+}
